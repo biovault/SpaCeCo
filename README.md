@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3885814.svg)](https://doi.org/10.5281/zenodo.3885814)
+
 # SpaCeCo
 SpaCeCo is an interactive tool for the data-driven comparison of spatially resolved single-cell data  as presented in the paper " Visual cohort comparison for spatial single-cell omics-data".
 
